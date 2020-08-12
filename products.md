@@ -13,31 +13,31 @@
 
 ```sql
     insert into products value(
-        1,
+        null,
         'ASUS ROG',
         1000,
         1
     ),
     (
-        2,
+        null,
         'Alienware',
         10000,
         10
     ),
     (
-        3,
+        null,
         'Iphone 4',
         100000,
         100
     ),
     (
-        4,
+        null,
         'Iphone 11',
         1000000,
         1000
     ),
     (
-        5,
+        null,
         'Xiaomi Redmi Note 8',
         10000000,
         10000
